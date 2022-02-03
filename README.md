@@ -2,11 +2,18 @@
 
 A new Flutter QR Scanner Project for Data Entry using GetX state management architecture.
 
-## QR Scanner
+## Packages Used
 
 For QR Scanner Package explore
 
--[Click here ](https://pub.dev/packages/qr_code_scanner)
+-[https://pub.dev/packages/qr_code_scanner](https://pub.dev/packages/qr_code_scanner)
+
+For GetX
+-[https://pub.dev/packages/get](https://pub.dev/packages/get)
+
+For SharedPreferences
+
+-[https://pub.dev/packages/shared_preferences](https://pub.dev/packages/shared_preferences)
 
 ![QR Scanner_SignIn](https://user-images.githubusercontent.com/18269506/152419142-b791e8d5-09cf-4def-a184-c7a83ed6d10f.png)
 
