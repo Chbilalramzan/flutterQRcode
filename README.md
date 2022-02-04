@@ -15,7 +15,7 @@ For SharedPreferences
 
 -[https://pub.dev/packages/shared_preferences](https://pub.dev/packages/shared_preferences)
 
-![QR Scanner_SignIn](https://user-images.githubusercontent.com/18269506/152419142-b791e8d5-09cf-4def-a184-c7a83ed6d10f.png)
+<!-- ![QR Scanner_SignIn](https://user-images.githubusercontent.com/18269506/152419142-b791e8d5-09cf-4def-a184-c7a83ed6d10f.png) -->
 
 ![QR Scanner_Home](https://user-images.githubusercontent.com/18269506/152419134-b3e3e893-c4bf-4a44-9c97-a75b9cb72077.png)
 
