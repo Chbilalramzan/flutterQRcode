@@ -1,3 +1,3 @@
 class ApiPath{
-  static String get verifyUser => 'https://loopexpo-qa.team-collaboration.com/api/user/checkin/save';
+  static String get verifyUser => '/api/user/checkin/save';
 }
